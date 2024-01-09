@@ -1,1 +1,2 @@
 # Js-counter
+The Minimal Counter project is a straightforward web application built with HTML, CSS, and JavaScript. It features two buttons, "+" and "-", enabling users to increment or decrement a numerical value displayed in real-time on the webpage. With a clean and responsive design, this project is an ideal starting point for beginners in web development. The GitHub repository allows for collaboration and customization, making it a versatile and accessible resource.
